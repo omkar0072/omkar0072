@@ -55,10 +55,15 @@ I'm **Omkar**, a passionate **Web Developer & AI Explorer** who loves turning id
 
 ## 📊 GitHub Stats (Auto Updating)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<h2 align="center">
+  ⚙️ ⌁ INITIALIZING OMKAR'S AI CORE ⌁ 🤖  
+  <br> <sub>System Status: ONLINE • Neural Engines Active</sub>
+</h2>
+
+
+
+
+
 
 ---
 
