@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 I'm **Omkar**, a passionate **Web Developer & AI Explorer** who loves turning ideas into clean, modern, and meaningful digital experiences.
 
-- 💻 Skilled in **HTML, CSS, JavaScript**  
+- 💻 Skilled in **Python, HTML5, CSS3, JavaScript**  
 - 🚀 Building my own AI project: **NeuroCare AI**  
 - 🔍 Exploring **Firebase, API integration & Automation**  
 - 🎯 Goal: Become a Full-Stack Developer  
